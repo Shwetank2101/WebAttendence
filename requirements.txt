@@ -7,3 +7,4 @@ typing-extensions==3.10.0.0
 whitenoise==5.2.0
 dj-database-url 
 psycopg2
+django-heroku
